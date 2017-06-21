@@ -1,1 +1,2 @@
-# chatbot_training
+# Java and Android training lessons to create ChatBot
+
